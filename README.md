@@ -8,7 +8,7 @@ I've been learning to code for 1 year, after switching careers. I started with b
 
 * 🌍  I'm based in Canelones, Uruguay
 * ✉️  You can contact me at [brunomar006@outlook.com](mailto:brunomar006@outlook.com)
-* 🚀  I'm currently working on [VideoGame](http://video-game-pi.vercel.app/)
+* 🚀  I'm currently working on [Attend](https://weattend.com.ar/)
 * 🧠  I'm learning Typescript
 
 ### Skills
