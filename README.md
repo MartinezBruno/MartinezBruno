@@ -1,15 +1,16 @@
-Hi 👋 My name is Bruno Martinez
+Hi 👋 <br/>
+My name is Bruno Martinez
 ===============================
 
-Full Stack Developer
+I'm Full Stack Developer
 --------------------
 
 I've been learning to code for 1 year, after switching careers. I started with basic HTML and have found a passion for FullStack development.
 
 * 🌍  I'm based in Canelones, Uruguay
-* ✉️  You can contact me at [brunomar006@outlook.com](mailto:brunomar006@outlook.com)
+* ✉️  You can contact me at [brunomar006@outlook.com](mailto:brunomar006@outlook.com) or [brunomar006@gmail.com](mailto:brunomar006@gmail.com)
 * 🚀  I'm currently working on [Attend](https://weattend.com.ar/)
-* 🧠  I'm learning Typescript
+* 🧠  I'm learning Typescript, MongoDB and React-Native
 
 ### Skills
 
