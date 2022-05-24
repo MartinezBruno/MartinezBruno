@@ -12,6 +12,10 @@ I've been learning to code for 1 year, after switching careers. I started with b
 * 🚀  I'm currently working on [Attend](https://weattend.com.ar/)
 * 🧠  I'm learning Typescript, MongoDB and React-Native
 
+<a href="https://www.github.com/MartinezBruno" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/MartinezBruno?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+
 ### Skills
 
 <p align="left">
@@ -38,8 +42,6 @@ I've been learning to code for 1 year, after switching careers. I started with b
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/MartinezBruno"><img src="https://github-readme-stats.vercel.app/api?username=MartinezBruno&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=10b981&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true" alt="MartinezBruno's GitHub stats" /></a>
+<a href="http://www.github.com/MartinezBruno"><img src="https://github-readme-stats.vercel.app/api?username=MartinezBruno&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=a855f7&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="MartinezBruno's GitHub stats" /></a>
 
-<a href="http://www.github.com/MartinezBruno"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MartinezBruno&stroke=10b981&background=000000&ring=3382ed&fire=3382ed&currStreakNum=10b981&currStreakLabel=3382ed&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true" /></a>
-
-<a href="http://www.github.com/MartinezBruno"><img src="https://activity-graph.herokuapp.com/graph?username=MartinezBruno&bg_color=000000&color=10b981&line=22c55e&point=10b981&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="https://github.com/MartinezBruno" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinezBruno&langs_count=10&title_color=facc15&text_color=a855f7&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
