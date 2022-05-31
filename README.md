@@ -2,7 +2,7 @@
 
 
 Hi 👋 <br/>
-My name is Bruno Martinez
+My name is <strong>Bruno Martinez</strong>
 ===============================
 
 I'm Full Stack Developer
@@ -61,6 +61,9 @@ src="https://img.shields.io/github/followers/MartinezBruno?logo=github&style=for
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/MartinezBruno"><img src="https://github-readme-stats.vercel.app/api?username=MartinezBruno&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=a855f7&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="MartinezBruno's GitHub stats" /></a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=martinezbruno&show_icons=true&theme=onedark&title_color=db0000&locale=en&layout=compact" alt="martinezbruno" /></p>
 
-<a href="https://github.com/MartinezBruno" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinezBruno&langs_count=10&title_color=facc15&text_color=a855f7&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=martinezbruno&show_icons=true&theme=onedark&title_color=db0000&hide_border=true&locale=en" alt="martinezbruno" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=martinezbruno&theme=dark" alt="martinezbruno" /></p>
+
